@@ -6,7 +6,7 @@
 <manifest>
   <include name="../platforms/kona.xml" />
 
-  <project path="device/xiaomi/psyche" name="AOSPA/android_device_xiaomi_psyche" remote="aospa" revision="uvite" />
+  <project path="device/xiaomi/psyche" name="android_device_xiaomi_psyche" remote="aospa-psyche" revision="vauxite" />
   <project path="device/xiaomi/sepolicy" name="AOSPA/android_device_xiaomi_sepolicy" remote="aospa" revision="uvite" />
   <project path="hardware/xiaomi" name="AOSPA/android_hardware_xiaomi" remote="aospa" revision="uvite" />
   <project path="kernel/msm-4.19" name="android_kernel_xiaomi_sm8250" remote="aospa-psyche" revision="vauxite" />
